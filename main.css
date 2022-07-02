@@ -1,0 +1,10 @@
+.center{
+    text-align: center;
+}
+.back{
+    background-image: url("https://image.shutterstock.com/image-photo/old-brick-black-color-wall-260nw-1605128917.jpg");
+}
+.font{
+    color: bisque;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
